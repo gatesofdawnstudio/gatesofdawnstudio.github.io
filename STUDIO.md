@@ -31,7 +31,7 @@
 - Fender Player Stratocaster HSS (sonic red)
 - Martin Road Series 000-12 (natural)
 ### Bass
-- Squier Precision Bass with EMG Geezer Butler pickup (black)
+- Squier Precision Bass with EMG Geezer Butler pickup (strung with flats - black)
 ### Drums
 #### Kits
 - Slingerland 12"/14"/20" (1960's era - green sparkle finish)
