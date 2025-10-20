@@ -9,5 +9,5 @@ Please reach out via this [form](https://forms.gle/8vqS33juHe4fUass7) if you wou
 See my gear list [here](./STUDIO.md).
 
 ## Projects
-[Collecting Space](https://hyperfollow.com/collectingspace) (art/progressive rock)
-[Lavender Lover](https://hyperfollow.com/lavenderlover) (indie/alternative rock)
+- [Collecting Space](https://hyperfollow.com/collectingspace) (art/progressive rock)
+- [Lavender Lover](https://hyperfollow.com/lavenderlover) (indie/alternative rock)
