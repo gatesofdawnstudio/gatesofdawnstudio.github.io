@@ -26,15 +26,17 @@
 
 ## Instruments
 ### Guitar
-- PRS S2 Custom 22 with USA 57/08 pickups and Graphtech Ghost piezo system
-- PRS SE Hollowbody II Piezo with USA 58/15 pickups
-- Fender Player Stratocaster HSS
-- Martin Road Series 000-12
+- PRS S2 Custom 22 with USA 57/08 pickups and Graphtech Ghost piezo system (whale blue)
+- PRS SE Hollowbody II Piezo with USA 58/15 pickups (peacock blue)
+- Fender Player Stratocaster HSS (sonic red)
+- Martin Road Series 000-12 (natural)
 ### Bass
-- Squier Precision Bass with EMG Geezer Butler pickup
+- Squier Precision Bass with EMG Geezer Butler pickup (black)
 ### Drums
-- Slingerland 12"/14"/20" (1960's era)
-- Tama Rockstar 14"/18"/24" (2000's era)
+#### Kits
+- Slingerland 12"/14"/20" (1960's era - green sparkle finish)
+- Tama Rockstar 14"/18"/24" (2000's era - liquid metal finish)
+#### Snares
 - Tama Starclassic 6.5x14" snare (bubinga)
 - Ludwig Classic 6x12" snare (maple)
 - Canopus Yaiba 6.5x14" snare (birch)
