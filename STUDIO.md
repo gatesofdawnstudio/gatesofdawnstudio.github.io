@@ -44,7 +44,7 @@
 - Sabian HHX Complex set (15" hi-hat, 22" medium ride, 19" thin crash, 20" thin crash)
 - Sabian AAX Holy China (12")
 
-### Misc.
+## Misc.
 - K&M microphone stands
 - Seismic Audio and ProCo cables
 - Radial Stereo DI
