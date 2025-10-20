@@ -1,4 +1,4 @@
-# Gates of Dawn - Home Page
+# Home Page
 
 <a href="https://i.imgur.com/2X78rDp.jpeg"><img src="https://i.imgur.com/2X78rDp.jpeg" style="width: 1000px; max-width: 100%; height: auto" title="Gates of Dawn Music Recording and Production header" />
 
