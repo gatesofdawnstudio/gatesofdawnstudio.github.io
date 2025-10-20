@@ -40,7 +40,7 @@
 - Tama Starclassic 6.5x14" snare (bubinga)
 - Ludwig Classic 6x12" snare (maple)
 - Canopus Yaiba 6.5x14" snare (birch)
-### Cymbals
+#### Cymbals
 - Sabian HHX Complex set (15" hi-hat, 22" medium ride, 19" thin crash, 20" thin crash)
 - Sabian AAX Holy China (12")
 
