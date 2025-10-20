@@ -19,7 +19,7 @@
 - Shure SM58
 - Shure PGA58 (x2)
 - Audix F2
-- Audix F5
+- Audix F5 (x2)
 - Audix F6 (x2)
 ### Ribbon
 - sE X1R
