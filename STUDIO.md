@@ -14,34 +14,43 @@
 - Beyerdynamic DT 770
 
 ## Microphones
+
 ### Condenser
 - Warm Audio WA-47jr
 - Audix F9 (pair)
+
 ### Dynamic
 - Shure SM58
 - Shure PGA58 (x2)
 - Audix F2
 - Audix F5 (x2)
 - Audix F6 (x2)
+
 ### Ribbon
 - sE X1R
 
 ## Instruments
+
 ### Guitar
 - PRS S2 Custom 22 with USA 57/08 pickups and Graphtech Ghost piezo system (whale blue)
 - PRS SE Hollowbody II Piezo with USA 58/15 pickups (peacock blue)
 - Fender Player Stratocaster HSS (sonic red)
 - Martin Road Series 000-12 (natural)
+
 ### Bass
 - Squier Precision Bass with EMG Geezer Butler pickup (strung with flats - black)
+
 ### Drums
+
 #### Kits
 - Slingerland 12"/14"/20" (1960's era - green sparkle finish)
 - Tama Rockstar 14"/18"/24" (2000's era - liquid metal finish)
+
 #### Snares
 - Tama Starclassic 6.5x14" snare (bubinga)
 - Ludwig Classic 6x12" snare (maple)
 - Canopus Yaiba 6.5x14" snare (birch)
+
 #### Cymbals
 - Sabian HHX Complex set (15" hi-hat, 22" medium ride, 19" thin crash, 20" thin crash)
 - Sabian AAX Holy China (12")
