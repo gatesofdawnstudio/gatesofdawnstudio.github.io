@@ -3,7 +3,7 @@
 My name is Kiley Burkhart, and I operate a music recording and production studio called Gates of Dawn in Westerville, OH. I am passionate about helping indie artists bring their songs to life. I provide affordable rates and a relaxed environment with flexible scheduling and payment options.
 
 ## Contact
-Please reach out via this [form](https://forms.gle/8vqS33juHe4fUass7) if you would like to work with me. We can discuss your project, pricing, etc. via a virtual or in person meeting, with no commitment to you.
+Please reach out via this [form](https://forms.gle/8vqS33juHe4fUass7) if you would like to work with me. We can discuss your project, pricing, etc. via a virtual or in person meeting, with no commitment from you.
 
 ## Studio
 See my gear list [here](./STUDIO.md).
