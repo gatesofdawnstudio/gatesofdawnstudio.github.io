@@ -9,7 +9,7 @@
 
 ## Monitoring
 - Kali LP-6 v2
-- Beyerdynamic DT770
+- Beyerdynamic DT 770
 
 ## Microphones
 ### Condenser
@@ -18,14 +18,14 @@
 ### Dynamic
 - Shure SM58
 - Shure PGA58 (x2)
-- Audix F5
 - Audix F2
+- Audix F5
 - Audix F6 (x2)
 ### Ribbon
 - sE X1R
 
 ## Instruments
-### Guitars
+### Guitar
 - PRS S2 Custom 22 with USA 57/08 pickups and Graphtech Ghost piezo system
 - PRS SE Hollowbody II Piezo with USA 58/15 pickups
 - Fender Player Stratocaster HSS
