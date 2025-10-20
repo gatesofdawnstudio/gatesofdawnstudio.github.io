@@ -1,3 +1,5 @@
+# Gates of Dawn - Studio
+
 ## Computer hardware + software
 - Mac mini (M4)
 - Logic Pro w/Logic Remote (controllable via iPad)
