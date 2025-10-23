@@ -6,8 +6,9 @@
 - Plugins by Universal Audio, Soundtoys, Line 6, Neural DSP, Arturia, Brainworx, and others
 
 ## Input
-- Focusrite 18i20 Gen 3 (24/96 8 inputs)
-- PreSonus StudioLive 16 channel digital mixer (24/48 16 inputs)
+- Focusrite 18i20 Gen 3 (24/96 8 preamps)
+- M-Audio ProFire 2626 (24/96 8 preamps via ADAT)
+- PreSonus StudioLive 16 digital mixer (24/48 16 inputs - for rehearsals)
 
 ## Monitoring
 - Kali LP-6 v2
