@@ -6,8 +6,9 @@
 - Plugins by Universal Audio, Soundtoys, Line 6, Neural DSP, Arturia, Brainworx, and others
 
 ## Input
-- Focusrite 18i20 Gen 4 (24/96 8 preamps)
-- M-Audio ProFire 2626 (24/96 8 preamps via ADAT)
+_I record at 24-bit/96 kHz_
+- Focusrite 18i20 Gen 4 (8 inputs)
+- M-Audio ProFire 2626 (8 inputs)
 
 ## Monitoring
 - Kali LP-6 v2
