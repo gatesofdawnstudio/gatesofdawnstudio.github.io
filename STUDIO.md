@@ -6,13 +6,13 @@
 - Plugins by Universal Audio, Soundtoys, Line 6, Neural DSP, Arturia, Brainworx, and others
 
 ## Input
-- Focusrite 18i20 Gen 3 (24/96 8 preamps)
+- Focusrite 18i20 Gen 4 (24/96 8 preamps)
 - M-Audio ProFire 2626 (24/96 8 preamps via ADAT)
-- PreSonus StudioLive 16 digital mixer (24/48 16 inputs - for rehearsals)
 
 ## Monitoring
 - Kali LP-6 v2
 - Beyerdynamic DT 770
+- Sonarworks SoundID room correction
 
 ## Microphones
 
@@ -23,8 +23,8 @@
 ### Dynamic
 - Shure SM58
 - Shure PGA58 (x2)
-- Audix F2
 - Audix F5 (x2)
+- Audix F2
 - Audix F6 (x2)
 
 ### Ribbon
@@ -33,22 +33,22 @@
 ## Instruments
 
 ### Guitar
-- PRS S2 Custom 22 with USA 57/08 pickups and Graphtech Ghost piezo system (whale blue)
-- PRS SE Hollowbody II Piezo with USA 58/15 pickups (peacock blue)
-- Fender Player Stratocaster HSS (sonic red)
-- Martin Road Series 000-12 (natural)
+- PRS S2 Custom 22 with USA 57/08 pickups and Graphtech Ghost piezo system
+- PRS SE Hollowbody II Piezo with USA 58/15 pickups
+- Fender Player Stratocaster HSS
+- Martin Road Series 000-12
 
 ### Bass
-- Squier Precision Bass with EMG Geezer Butler pickup (strung with flats - black)
+- Squier Precision Bass with EMG Geezer Butler pickup (strung with flats)
 
 ### Drums
 
 #### Kits
-- Slingerland 12"/14"/20" (1960's era - green sparkle finish)
-- Tama Rockstar 14"/18"/24" (2000's era - liquid metal finish)
+- Slingerland 12"/14"/20" (1960's era)
+- Tama Rockstar 14"/18"/24" (2000's era)
 
 #### Snares
-- Tama Starclassic 6.5x14" snare (bubinga)
+- Tama Starclassic 6.5x14" snare (walnut/birch)
 - Ludwig Classic 6x12" snare (maple)
 - Canopus Yaiba 6.5x14" snare (birch)
 
