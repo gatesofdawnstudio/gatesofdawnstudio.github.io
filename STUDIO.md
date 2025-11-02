@@ -9,6 +9,7 @@
 _I record at 24-bit/96 kHz_
 - Focusrite 18i20 Gen 4 (8 inputs)
 - M-Audio ProFire 2626 (8 inputs)
+###Outboard
 - PreSonus TubePre v2
 - Golden Age Pre 73 MkIII
 - Klark Teknik 1176-KT
