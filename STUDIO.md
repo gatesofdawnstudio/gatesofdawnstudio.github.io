@@ -3,7 +3,7 @@
 ## Computer hardware + software
 - Mac mini (M4)
 - Logic Pro w/Logic Remote (controllable via iPad)
-- Plugins by Universal Audio, Soundtoys, Line 6, Neural DSP, Arturia, Brainworx, and others
+- Plugins by Universal Audio, Soundtoys, Line 6, Neural DSP, Arturia, Brainworx, Sonnex, and others
 
 ## Input
 _I record at 24-bit/96 kHz_
