@@ -1,5 +1,9 @@
 # Gates of Dawn - Studio
 
+## Room
+- 20' x 10' soundproofed room
+- Fully treated with bass traps, broadband absorption, and clouds
+
 ## Computer hardware + software
 - Mac mini (M4)
 - Logic Pro w/Logic Remote (controllable via iPad)
@@ -15,7 +19,8 @@ _I record at 24-bit/96 kHz_
 - Klark Teknik 1176-KT
 
 ## Monitoring
-- Kali LP-6 v2
+- Kali LP-6 v2 (2-way)
+- Pyle PCB4BK (1-way)
 - Beyerdynamic DT 770 x2
 - Sonarworks SoundID room correction
 
@@ -74,9 +79,16 @@ _I use Canopus wires and parts_
   - 20" thin crash
 - Sabian AAX 12" Holy China
 
+### Percussion
+- Hat Trick tambourine
+- Meinl tambourine
+- Meinl egg shakers
+
 ## Misc.
 - K&M microphone stands
 - Seismic Audio and ProCo cables
 - Radial Stereo DI
 - Joyo Tidal Wave (SansAmp Bass Driver v2 clone)
 - Radial Geddy Lee YYZ bass preamp
+- DrumDial Digital
+- Tune Bot Studio
