@@ -21,7 +21,7 @@ _I record at 24-bit/96 kHz_
 ## Monitoring
 - Kali LP-6 v2 (2-way)
 - Pyle PCB4BK (1-way)
-- Beyerdynamic DT 770 x2
+- Beyerdynamic DT 770 250 Ohm x2
 - Sonarworks SoundID room correction
 
 ## Microphones
