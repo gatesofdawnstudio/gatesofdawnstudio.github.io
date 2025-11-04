@@ -11,10 +11,10 @@ See my gear list [here](./STUDIO.md).
 ## Projects
 ### Current
 - [Collecting Space](https://hyperfollow.com/collectingspace) (art/progressive rock)
-  - Writing, Recording, Mixing, Production
+  - Writing, Recording, Production, Mixing
   - Instruments: Vocals, Guitars, Bass, Keyboards
 - [Lavender Lover](https://hyperfollow.com/lavenderlover) (indie/alternative rock)
-  - Recording, Mixing, Production
+  - Recording, Production, Mixing
   - Instruments: Drums
 - Welcome To My Shitshow (upcoming podcast)
   - Producer, Host
