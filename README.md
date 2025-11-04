@@ -9,16 +9,20 @@ Please reach out via this [form](https://forms.gle/8vqS33juHe4fUass7) if you wou
 See my gear list [here](./STUDIO.md).
 
 ## Projects
-### Current
-- [Collecting Space](https://hyperfollow.com/collectingspace) (art/progressive rock)
-  - Writing, Recording, Production, Mixing
-  - Instruments: Vocals, Guitars, Bass, Keyboards
+### Myself
+#### Current
 - [Lavender Lover](https://hyperfollow.com/lavenderlover) (indie/alternative rock)
   - Recording, Production, Mixing
   - Instruments: Drums
-- Welcome To My Shitshow (upcoming podcast)
+- [Welcome To My Shitshow](https://hearthlightstudios.com) (upcoming podcast)
   - Producer, Host
 
-### Past
+#### Past
+- 2011 - 2012: [Collecting Space](https://hyperfollow.com/collectingspace) (art/progressive rock)
+  - Writing, Recording, Production, Mixing
+  - Instruments: Vocals, Guitars, Bass, Keyboards
+
+### Others
+#### Past
 - 2014: [Brigadier](https://iambrigadier.bandcamp.com/album/remnants) (indie/alternative rock)
   - Instruments: Bass, Mellotron
