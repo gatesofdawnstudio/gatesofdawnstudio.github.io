@@ -38,7 +38,7 @@ _I record at 24-bit/96 kHz_
 - Audix F6 (x2)
 
 ### Ribbon
-- sE X1R
+- sE X1 R
 
 ## Instruments
 
