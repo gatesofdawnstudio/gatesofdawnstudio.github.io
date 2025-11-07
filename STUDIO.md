@@ -8,6 +8,7 @@
 - Mac mini (M4)
 - Logic Pro w/Logic Remote (controllable via iPad)
 - Plugins by Universal Audio, Soundtoys, Line 6, Neural DSP, Arturia, Brainworx, Sonnox, and others
+- UAD-2 Satellite Thunderbolt Quad
 
 ## Input
 _I record at 24-bit/96 kHz_
@@ -21,7 +22,7 @@ _I record at 24-bit/96 kHz_
 ## Monitoring
 - Kali LP-6 v2 (2-way)
 - Pyle PCB4BK (1-way)
-- Beyerdynamic DT 770 250 Ohm x2
+- Beyerdynamic DT 770 250 Ohm (x2)
 - Sonarworks SoundID room correction
 
 ## Microphones
@@ -64,6 +65,12 @@ _I use Evans, Remo, and Aquarian heads_
 #### Kits
 - Slingerland 12"/14"/20" (1960's era)
 - Tama Rockstar 14"/18"/24" (2000's era)
+
+#### Toms
+- Yamaha Tour Custom 8x7" (maple)
+- Yamaha Tour Custom 10x7" (maple)
+- Yamaha Stage Custom 8x7" (birch, concert tom)
+- Yamaha Stage Custom 10x7" (birch, concert tom)
 
 #### Snares
 _I use Canopus wires and parts_
