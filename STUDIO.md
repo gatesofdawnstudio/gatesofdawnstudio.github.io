@@ -18,6 +18,7 @@ _I record at 24-bit/96 kHz_
 ### Outboard
 - 2x Golden Age Pre 73 MkIII
 - 2x Klark Teknik 1176-KT
+- Klark Teknik Mic Booster CM-1
 
 ## Monitoring
 - Kali LP-6 v2 (2-way)
@@ -32,6 +33,7 @@ _I record at 24-bit/96 kHz_
 - Audix F9 (pair)
 
 ### Dynamic
+- Shure SM7B
 - Shure SM58
 - Shure PGA58 (x2)
 - Audix F5 (x2)
