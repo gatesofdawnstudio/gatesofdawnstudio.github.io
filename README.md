@@ -23,6 +23,5 @@ See my gear list [here](./STUDIO.md).
   - Instruments: Vocals, Guitars, Bass, Keyboards
 
 ### Others
-#### Past
 - 2014: [Brigadier](https://iambrigadier.bandcamp.com/album/remnants) (indie/alternative rock)
   - Instruments: Bass, Mellotron
