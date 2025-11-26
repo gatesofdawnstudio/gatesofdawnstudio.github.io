@@ -9,6 +9,7 @@
 - Logic Pro w/Logic Remote (controllable via iPad)
 - Plugins by Universal Audio, Soundtoys, Line 6, Neural DSP, Arturia, Brainworx, Sonnox, and others
 - UAD-2 Satellite Thunderbolt Quad
+- Off-site backups with Backblaze
 
 ## Input
 _I record at 24-bit/96 kHz_
@@ -94,6 +95,7 @@ _I use Canopus wires and parts_
 - Meinl egg shakers
 
 ## Misc.
+- Furman power conditioning
 - K&M microphone stands
 - Seismic Audio and ProCo cables
 - Radial Stereo DI
