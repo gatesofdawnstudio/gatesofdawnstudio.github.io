@@ -15,12 +15,12 @@
 ## Input
 _I record at 24-bit/96 kHz_
 - Universal Audio Apollo Thunderbolt (4 preamps, 4 inputs)
+  - 2x Golden Age Pre 73 MkIII (Neve style clones) -> Klark Teknik 1176-KT
 - Focusrite 18i20 Gen 4 (8 preamps)
 
 ### Outboard
-- 2x Golden Age Pre 73 MkIII
+
 - 2x Klark Teknik 1176-KT
-- Klark Teknik Mic Booster CM-1
 
 ## Monitoring
 - Kali LP-6 v2 (2-way)
@@ -69,8 +69,8 @@ _I use D'Addario NYXL strings on all of my electric guitars_
 _I use Evans, Remo, and Aquarian heads_
 
 #### Kits
-- Slingerland 12"/14"/20" (1960's era)
-- Tama Rockstar 14"/18"/24" (2000's era)
+- Slingerland 12x9"/14x14"/20x16" (1960's era)
+- Tama Rockstar 14x10"/18x16"/24x16" (2000's era)
 
 #### Toms
 - Yamaha Tour Custom 8x7" (maple)
@@ -91,7 +91,7 @@ _I use Canopus wires and parts_
   - 22" medium ride
   - 19" thin crash
   - 20" thin crash
-- Sabian AAX 12" Holy China
+- Wuhan 18" china
 
 ### Percussion
 - Hat Trick tambourine
@@ -102,6 +102,7 @@ _I use Canopus wires and parts_
 - Furman power conditioning
 - K&M microphone stands
 - Seismic Audio and ProCo cables
+- Klark Teknik Mic Booster CM-1
 - Radial Stereo DI
 - Joyo Tidal Wave (SansAmp Bass Driver v2 clone)
 - Radial Geddy Lee YYZ bass preamp
