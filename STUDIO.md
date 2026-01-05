@@ -13,8 +13,8 @@
 
 ## Input
 _I record at 24-bit/96 kHz_
-- Focusrite 18i20 Gen 4 (8 inputs)
-- M-Audio ProFire 2626 (8 inputs)
+- Universal Audio Apollo Thunderbolt (4 preamps, 4 inputs)
+- Focusrite 18i20 Gen 4 (8 preamps)
 
 ### Outboard
 - 2x Golden Age Pre 73 MkIII
@@ -26,6 +26,7 @@ _I record at 24-bit/96 kHz_
 - Pyle PCB4BK (1-way)
 - Beyerdynamic DT 770 250 Ohm (x2)
 - Sonarworks SoundID room correction
+- Mackie Big Knob Passive monitor control
 
 ## Microphones
 
@@ -80,6 +81,7 @@ _I use Canopus wires and parts_
 - Tama Starclassic 6.5x14" snare (walnut/birch)
 - Ludwig Classic 6x12" snare (maple)
 - Canopus Yaiba 6.5x14" snare (birch)
+- Tama Rockstar 14" snare (steel)
 
 #### Cymbals
 - Sabian HHX Complex
