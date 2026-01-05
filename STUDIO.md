@@ -42,6 +42,7 @@ _I record at 24-bit/96 kHz_
 - Audix F5 (x2)
 - Audix F2
 - Audix F6 (x2)
+- Sennheiser e609 Silver
 
 ### Ribbon
 - sE X1 R
