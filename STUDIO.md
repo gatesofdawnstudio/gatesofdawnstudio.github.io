@@ -7,7 +7,8 @@
 ## Computer hardware + software
 - Mac mini (M4)
 - Logic Pro w/Logic Remote (controllable via iPad)
-- Plugins by Universal Audio, Soundtoys, Line 6, Neural DSP, Arturia, Brainworx, Sonnox, and others
+- Plugins by Universal Audio, Soundtoys, Arturia, Brainworx, Sonnox, Sound Radix, and others
+  - Guitar/bass modeling: Line 6 Helix, Neural DSP plugins, UAD Paradise Guitar Studio
 - UAD-2 Satellite Thunderbolt Quad
 - Off-site backups with Backblaze
 
