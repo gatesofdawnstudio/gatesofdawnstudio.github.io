@@ -7,43 +7,41 @@
 ## Computer hardware + software
 - Mac mini (M4)
 - Logic Pro w/Logic Remote (controllable via iPad)
-- Plugins by Universal Audio, Soundtoys, Arturia, Brainworx, Sonnox, Sound Radix, and others
-  - Guitar/bass modeling: Line 6 Helix + UAD Paradise Guitar Studio
+- Plugins by Universal Audio, Soundtoys, Arturia, Brainworx, Celemony, Sonnox, Sound Radix, and others
+  - Guitar/bass digital modeling: Line 6 Helix + UAD Paradise Guitar Studio
 - UAD-2 Satellite Thunderbolt Quad
 - Off-site backups with Backblaze
 
 ## Input
 _I record at 24-bit/96 kHz_
 - Universal Audio Apollo Thunderbolt (4 preamps, 4 inputs)
-  - 2x Golden Age Pre 73 MkIII (Neve style clones)
+  - 2x Golden Age Pre 73 MkIII (Neve style clones) -> Klark Teknik 1176-KT
   - 1x Black Lion Audio BLA12 Mk3 (API style clone)
 - Focusrite 18i20 Gen 4 (8 preamps)
 
-### Outboard
-
-- 2x Klark Teknik 1176-KT
-
 ## Monitoring
-- Kali LP-6 v2 (2-way)
-- Pyle PCB4BK (1-way)
-- Beyerdynamic DT 770 250 Ohm (x2)
+- Kali LP-6 v2 (2-way) @ 80 watts/channel
+- Pyle PCB4BK (1-way) + Class D amplifier (50 watts/channel)
 - Sonarworks SoundID room correction
+- Beyerdynamic DT 770 250 Ohm (x2)
 - Mackie Big Knob Passive monitor control
 
 ## Microphones
 
 ### Condenser
+- Audix F9 (x2)
+- United Studio Technologies UT Vintage 87 (incoming)
 - Warm Audio WA-47jr
-- Audix F9 (pair)
+- Warm Audio WA-87jr (incoming)
 
 ### Dynamic
-- Shure SM7B
-- Shure SM58
-- Shure PGA58 (x2)
 - Audix F5 (x2)
 - Audix F2
 - Audix F6 (x2)
 - Sennheiser e609 Silver
+- Shure SM7B
+- Shure SM58
+- Shure PGA58 (x2)
 
 ### Ribbon
 - sE X1 R
