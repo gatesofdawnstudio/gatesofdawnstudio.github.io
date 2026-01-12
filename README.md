@@ -12,8 +12,9 @@ See my gear list [here](./STUDIO.md).
 ### Myself
 #### Current
 - [Lavender Lover](https://hyperfollow.com/lavenderlover) (indie/alternative rock)
-  - Recording, Production, Mixing
-  - Instruments: Drums
+  - Drums, Recording, Production, Mixing
+- [The Warps](https://warpsband.com) (indie rock/pop, dance punk)
+  - Drums, Recording, Production, Mixing
 - [Welcome To My Shitshow](https://hearthlightstudios.com) (upcoming podcast)
   - Producer, Host
 
