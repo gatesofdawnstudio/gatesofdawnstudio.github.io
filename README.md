@@ -14,7 +14,7 @@ See my gear list [here](./STUDIO.md).
 - [Lavender Lover](https://hyperfollow.com/lavenderlover) (indie/alternative rock)
   - Drums, Recording, Production, Mixing
 - [The Warps](https://warpsband.com) (indie rock/pop, dance punk)
-  - Drums, Recording, Production, Mixing
+  - Recording, Production, Mixing
 - [Welcome To My Shitshow](https://hearthlightstudios.com) (upcoming podcast)
   - Producer, Host
 
