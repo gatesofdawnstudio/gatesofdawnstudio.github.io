@@ -104,7 +104,7 @@ _I use Canopus wires and parts_
 - K&M microphone stands
 - Seismic Audio and ProCo cables
 - Klark Teknik Mic Booster CM-1
-- Radial Stereo DI
+- Radial Stereo DI (passive)
 - Joyo Tidal Wave (SansAmp Bass Driver v2 clone)
 - Radial Geddy Lee YYZ bass preamp
 - DrumDial Digital
