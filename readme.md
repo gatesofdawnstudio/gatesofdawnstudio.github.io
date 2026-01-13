@@ -6,7 +6,7 @@ My name is Kiley Burkhart, and I operate a music recording and production studio
 Please reach out via this [form](https://forms.gle/8vqS33juHe4fUass7) if you would like to work with me. We can discuss your project, pricing, etc. via a virtual or in person meeting, with no commitment from you.
 
 ## Studio
-See my gear list [here](./STUDIO.md).
+See my gear list [here](./studio.md).
 
 ## Projects
 ### Myself
