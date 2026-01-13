@@ -32,7 +32,7 @@ _I record at 24-bit/96 kHz_
 - Audix F9 (x2)
 - United Studio Technologies UT Vintage 87 (incoming)
 - Warm Audio WA-47jr
-- Warm Audio WA-87jr (incoming)
+- Warm Audio WA-87jr
 
 ### Dynamic
 - Audix F5 (x2)
