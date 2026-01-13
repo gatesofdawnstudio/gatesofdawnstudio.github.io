@@ -17,6 +17,8 @@ See my gear list [here](./studio.md).
   - Recording, Production, Mixing
 - [Welcome To My Shitshow](https://hearthlightstudios.com) (upcoming podcast)
   - Producer, Host
+- [Jerry Marselle](https://www.facebook.com/people/Jerry-M-Music/61562277435414) (acoustic singer/songwriter)
+  - Drums, Recording, Production, Mixing
 
 #### Past
 - 2011 - 2012: [Collecting Space](https://hyperfollow.com/collectingspace) (art/progressive rock)
