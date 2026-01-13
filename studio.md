@@ -9,6 +9,7 @@
 - Logic Pro w/Logic Remote (controllable via iPad)
 - Plugins by Universal Audio, Soundtoys, Arturia, Brainworx, Celemony, Sonnox, Sound Radix, and others
   - Guitar/bass digital modeling: Line 6 Helix + UAD Paradise Guitar Studio
+- Rogue Amoeba audio utilities (Airfoil, Loopback, SoundSource)
 - UAD-2 Satellite Thunderbolt Quad
 - Off-site backups with Backblaze
 
