@@ -31,7 +31,7 @@ _I record at 24-bit/96 kHz_
 
 ### Condenser
 - Audix F9 (x2)
-- United Studio Technologies UT Vintage 87 (incoming)
+- United Studio Technologies UT Vintage 87 (on order)
 - Warm Audio WA-47jr
 - Warm Audio WA-87jr
 
@@ -70,8 +70,8 @@ _I use D'Addario NYXL strings on all of my electric guitars_
 _I use Evans, Remo, and Aquarian heads_
 
 #### Kits
-- Slingerland 12x9"/14x14"/20x16" (1960's era)
-- Tama Rockstar 14x10"/18x16"/24x16" (2000's era)
+- Slingerland 12x9"/14x14"/20x16" (maple, 1960's era)
+- Tama Rockstar 14x10"/18x16"/24x16" (birch, 2000's era)
 
 #### Toms
 - Yamaha Tour Custom 8x7" (maple)
