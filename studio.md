@@ -101,7 +101,7 @@ _I use Canopus wires and parts_
 
 ## Misc.
 - Furman power conditioning
-- K&M microphone stands
+- K&M and Gator microphone stands
 - Seismic Audio and ProCo cables
 - Klark Teknik Mic Booster CM-1
 - Radial Stereo DI (passive)
