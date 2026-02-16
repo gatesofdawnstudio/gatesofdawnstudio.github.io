@@ -1,7 +1,7 @@
 # Gates of Dawn - Studio
 
 ## Room
-- 20' x 10' soundproofed room
+- 20' x 15' soundproofed room
 - Fully treated with bass traps, broadband absorption, and clouds
 
 ## Computer hardware + software
@@ -31,9 +31,10 @@ _I record at 24-bit/96 kHz_
 
 ### Condenser
 - Audix F9 (x2)
-- United Studio Technologies UT Vintage 87 (on order)
-- Warm Audio WA-47jr
+- United Studio Technologies UT Vintage 87
 - Warm Audio WA-87jr
+- Warm Audio WA-47jr
+- Warm Audio WA-47jr SE
 
 ### Dynamic
 - Audix F5 (x2)
@@ -105,6 +106,7 @@ _I use Canopus wires and parts_
 - Seismic Audio and ProCo cables
 - Klark Teknik Mic Booster CM-1
 - Radial Stereo DI (passive)
+- TC Electronic v550 (5150 pedal)
 - Joyo Tidal Wave (SansAmp Bass Driver v2 clone)
 - Radial Geddy Lee YYZ bass preamp
 - DrumDial Digital
