@@ -15,10 +15,10 @@ See my gear list [here](./studio.md).
   - Drums, Recording, Production, Mixing
 - [The Warps](https://warpsband.com) (indie rock/pop, dance punk)
   - Recording, Production, Mixing
-- [Welcome To My Shitshow](https://hearthlightstudios.com) (upcoming podcast)
-  - Producer, Host
 - [Jerry Marselle](https://www.facebook.com/people/Jerry-M-Music/61562277435414) (acoustic singer/songwriter)
   - Drums, Recording, Production, Mixing
+- [Welcome To My Shitshow](https://hearthlightstudios.com) (upcoming podcast)
+  - Producer, Host
 
 #### Past
 - 2011 - 2012: [Collecting Space](https://hyperfollow.com/collectingspace) (art/progressive rock)
