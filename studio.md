@@ -21,7 +21,8 @@ _I record at 24-bit/96 kHz_
 - Focusrite 18i20 Gen 4 (8 preamps)
 
 ## Monitoring
-- Kali LP-6 v2 (2-way) @ 80 watts/channel
+- Kali LP-6 v2
+- KRK S8.4
 - Pyle PCB4BK (1-way) + Class D amplifier (50 watts/channel)
 - Sonarworks SoundID room correction
 - Beyerdynamic DT 770 250 Ohm (x2)
