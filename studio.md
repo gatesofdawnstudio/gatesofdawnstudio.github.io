@@ -91,7 +91,6 @@ _I use Canopus wires and parts_
 - Tama Rockstar 6x14" (steel)
 - Tama Starclassic 6.5x14" (7 ply walnut/birch)
 
-
 #### Cymbals
 - Sabian
   - HHX Complex 15" medium hi-hat
@@ -101,20 +100,26 @@ _I use Canopus wires and parts_
   - AAX Fast Hats 13"
 - Wuhan 18" china
 
+- Tuning gadgets
+  - DrumDial Digital
+  - Tune Bot Studio
+
 ### Percussion
 - Hat Trick tambourine
 - Meinl tambourine
 - Meinl egg shakers
 
 ## Misc.
-- Furman power conditioning
-- K&M and Gator microphone stands
-- Seismic Audio and ProCo cables
-- Klark Teknik Mic Booster CM-1
-- Radial Stereo DI (passive)
-- TC Electronic Ampworx Deluxe 65 (1965 Blackface Reverb pedal)
-- TC Electronic Ampworx v550 (90's Peavey 5150 pedal)
-- Joyo Tidal Wave (SansAmp Bass Driver v2 clone)
-- Radial Geddy Lee YYZ bass preamp
-- DrumDial Digital
-- Tune Bot Studio
+- Studio equipment
+  - Furman power conditioning
+  - K&M and Gator microphone stands
+  - Seismic Audio and ProCo cables
+- Pedals
+  - TC Electronic Ampworx Deluxe 65 (1965 Blackface Reverb pedal)
+  - TC Electronic Ampworx v550 (90's Peavey 5150 pedal)
+  - Joyo Tidal Wave (SansAmp Bass Driver v2 clone)
+  - Radial Geddy Lee YYZ bass preamp
+- Utility
+  - Klark Teknik Mic Booster CM-1
+  - Radial ProDI Stereo DI (passive)
+  - Radial ProDI Mono DI (passive)
