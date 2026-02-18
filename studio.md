@@ -15,7 +15,7 @@
 
 ## Input
 _I record at 24-bit/96 kHz_
-- Universal Audio Apollo Thunderbolt (4 preamps, 4 inputs)
+- Universal Audio Apollo Thunderbolt (4 Unison preamps, 4 line inputs)
   - 2x Golden Age Pre 73 MkIII (Neve style clones) -> Klark Teknik 1176-KT
   - 1x Black Lion Audio BLA12 Mk3 (API style clone)
 - Focusrite 18i20 Gen 4 (8 preamps) via ADAT to Apollo
