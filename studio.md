@@ -109,7 +109,8 @@ _I use Canopus wires and parts_
 - Seismic Audio and ProCo cables
 - Klark Teknik Mic Booster CM-1
 - Radial Stereo DI (passive)
-- TC Electronic v550 (5150 pedal)
+- TC Electronic Ampworx Deluxe 65 (1965 Blackface Reverb pedal)
+- TC Electronic Ampworx v550 (90's Peavey 5150 pedal)
 - Joyo Tidal Wave (SansAmp Bass Driver v2 clone)
 - Radial Geddy Lee YYZ bass preamp
 - DrumDial Digital
