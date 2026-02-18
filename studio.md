@@ -57,6 +57,7 @@ _I use D'Addario NYXL strings on all of my electric guitars_
 - PRS S2 Custom 22
   - USA 57/08 pickups
   - Graphtech Ghost piezo system
+  - Mannmade brass tremolo block
 - PRS SE Hollowbody II Piezo
   - USA 58/15 pickups
 - Fender Player Stratocaster HSS
