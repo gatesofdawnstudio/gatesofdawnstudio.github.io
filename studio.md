@@ -72,7 +72,7 @@ _I use D'Addario NYXL strings on all of my electric guitars_
 _I use Evans, Remo, and Aquarian heads_
 
 #### Kits
-- Slingerland 12x9"/14x14"/20x16" (maple, 1960's era)
+- Slingerland 12x9"/14x14"/20x16" (3 ply maple, 1960's era)
 - Tama Rockstar 14x10"/18x16"/24x16" (birch, 2000's era)
 
 #### Toms
@@ -83,17 +83,19 @@ _I use Evans, Remo, and Aquarian heads_
 
 #### Snares
 _I use Canopus wires and parts_
-- Tama Starclassic 6.5x14" snare (walnut/birch)
-- Ludwig Classic 6x12" snare (maple)
-- Canopus Yaiba 6.5x14" snare (birch)
-- Tama Rockstar 14" snare (steel)
+- Canopus Yaiba II 6.5x14" (6 ply birch)
+- Tama Starclassic 6.5x14" (7 ply walnut/birch)
+- Ludwig Acrolite 5.5x14" (aluminum)
+- Ludwig Classic Maple 6x12" (7 ply maple)
+- Tama Rockstar 6x14" (steel)
 
 #### Cymbals
-- Sabian HHX Complex
-  - 15" medium hi-hat
-  - 22" medium ride
-  - 19" thin crash
-  - 20" thin crash
+- Sabian
+  - HHX Complex 15" medium hi-hat
+  - HHX Complex 22" medium ride
+  - HHX Complex 19" thin crash
+  - HHX Complex 20" thin crash
+  - AAX Fast Hats 13"
 - Wuhan 18" china
 
 ### Percussion
