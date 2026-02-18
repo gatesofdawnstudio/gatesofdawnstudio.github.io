@@ -18,7 +18,7 @@ _I record at 24-bit/96 kHz_
 - Universal Audio Apollo Thunderbolt (4 preamps, 4 inputs)
   - 2x Golden Age Pre 73 MkIII (Neve style clones) -> Klark Teknik 1176-KT
   - 1x Black Lion Audio BLA12 Mk3 (API style clone)
-- Focusrite 18i20 Gen 4 (8 preamps)
+- Focusrite 18i20 Gen 4 (8 preamps) via ADAT to Apollo
 
 ## Monitoring
 - Kali LP-6 v2
@@ -26,7 +26,7 @@ _I record at 24-bit/96 kHz_
 - Pyle PCB4BK (1-way) + Class D amplifier (50 watts/channel)
 - Sonarworks SoundID room correction
 - Beyerdynamic DT 770 250 Ohm (x2)
-- Mackie Big Knob Passive monitor control
+- Mackie Big Knob Passive monitor controller
 
 ## Microphones
 
@@ -64,7 +64,7 @@ _I use D'Addario NYXL strings on all of my electric guitars_
   - Thomastik-Infeld Spectrum strings
 
 ### Bass
-- Custom Precision Bass
+- Custom Precision Bass w/Jazz neck
   - EMG Geezer Butler pickup
   - LaBella Low Tension Flatwound strings
 
