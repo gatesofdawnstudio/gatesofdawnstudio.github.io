@@ -67,6 +67,7 @@ _I use D'Addario NYXL strings on all of my electric guitars_
 - Custom Precision Bass w/Jazz neck
   - EMG Geezer Butler pickup
   - LaBella Low Tension Flatwound strings
+  - High mass bridge
 
 ### Drums
 _I use Evans, Remo, and Aquarian heads_
