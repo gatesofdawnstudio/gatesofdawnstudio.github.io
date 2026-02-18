@@ -78,18 +78,19 @@ _I use Evans, Remo, and Aquarian heads_
 - Tama Rockstar 14x10"/18x16"/24x16" (birch, 2000's era)
 
 #### Toms
-- Yamaha Tour Custom 8x7" (maple)
-- Yamaha Tour Custom 10x7" (maple)
-- Yamaha Stage Custom 8x7" (birch, concert tom)
-- Yamaha Stage Custom 10x7" (birch, concert tom)
+- Yamaha Tour Custom 8x7" (6 ply maple)
+- Yamaha Tour Custom 10x7" (6 ply maple)
+- Yamaha Stage Custom 8x7" (6 ply birch, concert tom)
+- Yamaha Stage Custom 10x7" (6 ply birch, concert tom)
 
 #### Snares
 _I use Canopus wires and parts_
 - Canopus Yaiba II 6.5x14" (6 ply birch)
-- Tama Starclassic 6.5x14" (7 ply walnut/birch)
 - Ludwig Acrolite 5.5x14" (aluminum)
 - Ludwig Classic Maple 6x12" (7 ply maple)
 - Tama Rockstar 6x14" (steel)
+- Tama Starclassic 6.5x14" (7 ply walnut/birch)
+
 
 #### Cymbals
 - Sabian
