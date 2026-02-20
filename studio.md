@@ -9,7 +9,7 @@
 - Logic Pro w/Logic Remote (controllable via iPad)
 - Plugins by Universal Audio, Soundtoys, Arturia, Brainworx, Celemony, Sonnox, Sound Radix, and others
   - Guitar/bass digital modeling: Line 6 Helix + UAD Paradise Guitar Studio
-- Rogue Amoeba audio utilities (Airfoil, Loopback, SoundSource)
+- Rogue Amoeba macOS audio utilities (Airfoil, Loopback, SoundSource)
 - UAD-2 Satellite Thunderbolt Quad
 - Off-site backups with Backblaze
 
@@ -21,8 +21,8 @@ _I record at 24-bit/96 kHz_
 - Focusrite 18i20 Gen 4 (8 preamps) via ADAT to Apollo
 
 ## Monitoring
-- Kali LP-6 v2 monitors + KRK S8.4 subwoofer
-- Pyle PCB4BK + Class D amplifier (50 watts/channel)
+- Kali LP-6 v2 stereo monitors + KRK S8.4 subwoofer
+- Pyle PCB4BK stereo speakers + Class D amplifier (50 watts/channel)
 - Sonarworks SoundID room correction
 - Beyerdynamic DT 770 250 Ohm (x2)
 - Mackie Big Knob Passive monitor controller
@@ -46,9 +46,10 @@ _I record at 24-bit/96 kHz_
 - Shure SM57 (w/right angle mod)
 - Shure SM58
 - Shure SM7B
+- Telefunken M80-SH
 
 ### Ribbon
-- sE X1 R
+- sE X1 R (x2)
 
 ## Instruments
 
