@@ -62,6 +62,7 @@ _I use D'Addario NYXL strings on all of my electric guitars_
 - PRS SE Hollowbody II Piezo
   - USA 58/15 pickups
 - Fender Player Stratocaster HSS
+- Tele Partscaster (high strung/Nashville tuning)
 - Martin Road Series 000-12
   - Thomastik-Infeld Spectrum strings
 
@@ -69,7 +70,6 @@ _I use D'Addario NYXL strings on all of my electric guitars_
 - Custom Precision Bass w/Jazz neck
   - EMG Geezer Butler pickup
   - LaBella Low Tension Flatwound strings
-  - High mass bridge
 
 ### Drums
 _I use Evans, Remo, and Aquarian heads_
