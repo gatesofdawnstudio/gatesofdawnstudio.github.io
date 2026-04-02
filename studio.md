@@ -16,7 +16,7 @@
 ## Input
 _I record at 24-bit/96 kHz_
 - Universal Audio Apollo Thunderbolt (4 Unison preamps, 4 line inputs)
-  - 2x Golden Age Pre 73 MkIII (Neve style clones) -> Klark Teknik 1176-KT
+  - 2x Golden Age Pre 73 MkIII (Neve style clones) -> Klark Teknik 1176-KT (UA 1176 style clones)
   - 1x Black Lion Audio BLA12 Mk3 (API style clone)
 - Focusrite 18i20 Gen 4 (8 preamps) via ADAT to Apollo
 
@@ -27,6 +27,7 @@ _I record at 24-bit/96 kHz_
 - Beyerdynamic DT 770 250 Ohm (x2)
 - Mackie Big Knob Passive monitor controller
 - Sonos Play:5
+- Apple AirPods Max
 
 ## Microphones
 
@@ -55,19 +56,20 @@ _I record at 24-bit/96 kHz_
 
 ### Guitar
 _I use D'Addario NYXL strings on all of my electric guitars_
-- PRS S2 Custom 22
+- PRS S2 Custom 22 (Drop D)
   - USA 57/08 pickups
   - Graphtech Ghost piezo system
   - Mannmade brass tremolo block
-- PRS SE Hollowbody II Piezo
+- PRS SE Hollowbody II Piezo (E Standard)
   - USA 58/15 pickups
-- Fender Player Stratocaster HSS
+- PRS SE Paul's Guitar (Drop C)
+- Fender Player Stratocaster HSS (E Standard)
 - Tele Partscaster (high strung/Nashville tuning)
 - Martin Road Series 000-12
   - Thomastik-Infeld Spectrum strings
 
 ### Bass
-- Custom Precision Bass w/Jazz neck
+- Custom Precision Bass w/Jazz neck (E Standard)
   - EMG Geezer Butler pickup
   - LaBella Low Tension Flatwound strings
 
@@ -88,17 +90,18 @@ _I use Evans, Remo, and Aquarian heads_
 _I use Canopus wires and parts_
 - Canopus Yaiba II 6.5x14" (6 ply birch)
 - Ludwig Acrolite 5.5x14" (aluminum)
+  - INDe throwoff
 - Ludwig Classic Maple 6x12" (7 ply maple)
 - Tama Rockstar 6x14" (steel)
 - Tama Starclassic 6.5x14" (7 ply walnut/birch)
 
 #### Cymbals
 - Sabian
-  - HHX Complex 15" medium hi-hat
-  - HHX Complex 22" medium ride
-  - HHX Complex 19" thin crash
-  - HHX Complex 20" thin crash
-  - AAX Fast Hats 13"
+  - 13" AAX Fast Hats
+  - 15" HHX Complex medium hats
+  - 19" HHX Complex thin crash
+  - 20" HHX Complex thin crash
+  - 22" HHX Complex medium ride
 - Wuhan 18" china
 
 - Tuning gadgets
@@ -120,6 +123,7 @@ _I use Canopus wires and parts_
   - TC Electronic Ampworx v550 (90's Peavey 5150 pedal)
   - Joyo Tidal Wave (SansAmp Bass Driver v2 clone)
   - Radial Geddy Lee YYZ bass preamp
+  - Ernie Ball volume pedal
 - Utility
   - Klark Teknik Mic Booster CM-1
   - Radial ProDI Stereo DI (passive)
