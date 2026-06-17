@@ -8,7 +8,7 @@
 - Mac mini (M4)
 - Logic Pro w/Logic Remote (controllable via iPad)
 - Plugins by Universal Audio, Soundtoys, Arturia, Brainworx, Celemony, Sonnox, Sound Radix, and others
-  - Guitar/bass digital modeling: Line 6 Helix + UAD Paradise Guitar Studio
+  - Guitar/bass digital modeling: Line 6 Helix + UAD Paradise Guitar Studio + Neural DSP
 - Rogue Amoeba macOS audio utilities (Airfoil, Loopback, SoundSource)
 - UAD-2 Satellite Thunderbolt Quad
 - Off-site backups with Backblaze
@@ -24,10 +24,12 @@ _I record at 24-bit/96 kHz_
 - Kali LP-6 v2 stereo monitors + KRK S8.4 subwoofer
 - Pyle PCB4BK stereo speakers + Class D amplifier (50 watts/channel)
 - Sonarworks SoundID room correction
-- Beyerdynamic DT 770 250 Ohm (x2)
+- Beyerdynamic DT 770 250 Ohm (x3)
 - Mackie Big Knob Passive monitor controller
 - Sonos Play:5
 - Apple AirPods Max
+- Apple AirPods Pro
+- Behringer Stage Connect P24 System (1 mixer currently, adding more later in 2026)
 
 ## Microphones
 
@@ -77,8 +79,7 @@ _I use D'Addario NYXL strings on all of my electric guitars_
 _I use Evans, Remo, and Aquarian heads_
 
 #### Kits
-- Slingerland 12x9"/14x14"/20x16" (3 ply maple, 1960's era)
-- Tama Rockstar 14x10"/18x16"/24x16" (birch, 2000's era)
+- Slingerland 12x9"/14x14"/20x16" (3 ply maple, 1960's era) + Yamaha 16x16" (3-ply maple, 1980's era) floor tom
 
 #### Toms
 - Yamaha Tour Custom 8x7" (6 ply maple)
@@ -88,7 +89,6 @@ _I use Evans, Remo, and Aquarian heads_
 
 #### Snares
 _I use Canopus wires and parts_
-- Canopus Yaiba II 6.5x14" (6 ply birch)
 - Ludwig Acrolite 5.5x14" (aluminum)
   - INDe throwoff
 - Ludwig Classic Maple 6x12" (7 ply maple)
@@ -98,11 +98,15 @@ _I use Canopus wires and parts_
 #### Cymbals
 - Sabian
   - 13" AAX Fast Hats
+  - 14" Hats
   - 15" HHX Complex medium hats
   - 19" HHX Complex thin crash
   - 20" HHX Complex thin crash
+  - 20" SR2 thin crash
   - 22" HHX Complex medium ride
 - Wuhan 18" china
+- Zildjian
+  - 20" A Ping Ride
 
 - Tuning gadgets
   - DrumDial Digital
