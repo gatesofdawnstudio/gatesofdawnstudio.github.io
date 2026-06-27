@@ -13,7 +13,7 @@ See my gear list [here](./studio.md).
 #### Current
 - Upcoming release for [Kiley Burkhart](https://kileyburkhart.bandcamp.com/) - The Collecting Space EP (art rock)
   - Writing, Recording, Production, Mixing
-  - Instruments: Drums, Bass, Keyboards, Guitars, and Vocals
+  - Instruments: Drums, Bass, Keyboards, Guitars, Vocals
 
 #### Past
 - 2025 - 2026: [Lavender Lover](https://lavenderlover.bandcamp.com) (indie/alternative rock)
