@@ -11,20 +11,29 @@ See my gear list [here](./studio.md).
 ## Projects
 ### Myself
 #### Current
-- Upcoming release for [The Warps](https://warpsband.com) (indie rock/pop, dance punk)
-  - Recording, Production, Mixing
-- Upcoming release for [Jerry Marselle](https://www.facebook.com/people/Jerry-M-Music/61562277435414) (acoustic singer/songwriter)
-  - Drums, Recording, Production, Mixing
+- Upcoming release for Kiley Burkhart - The Collecting Space EP (art rock)
+  - Writing, Recording, Production, Mixing
+  - Instruments: Drums, Bass, Keyboards, Guitars, and Vocals
 
 #### Past
 - 2025 - 2026: [Lavender Lover](https://lavenderlover.bandcamp.com) (indie/alternative rock)
-  - Drums, Recording, Production, Mixing
+  - Recording, Production, Mixing
+  - Instruments: Drums
 - 2011 - 2012: [Collecting Space](https://collectingspace.bandcamp.com) (art/progressive rock)
   - Writing, Recording, Production, Mixing
   - Instruments: Vocals, Guitars, Bass, Keyboards
 
 ### Others
-- 2026: [Welcome To My Shitshow](https://hearthlightstudios.com) (upcoming podcast)
+- Upcoming release for [The Warps](https://warpsband.com) (indie rock/pop, dance punk)
+  - Recording, Production, Mixing
+- Upcoming release for [Jerry Marselle](https://www.facebook.com/people/Jerry-M-Music/61562277435414) (acoustic singer/songwriter)
+  - Recording, Production, Mixing
+  - Instruments: Drums
+- Upcoming podcast [Welcome To My Shitshow](https://hearthlightstudios.com)
   - Producer, Host
 - 2014: [Brigadier](https://iambrigadier.bandcamp.com/album/remnants) (indie/alternative rock)
-  - Instruments: Bass, Mellotron
+  - Instruments: Bass, Keyboards
+ 
+## Testamonials
+### Jerry Marselle
+​*Working with Kiley at Gates of Dawn was an incredible experience from start to finish. The atmosphere was professional yet laid back. The vibe was creative, and welcoming, which made it easy to relax and focus on the music. The sound quality, attention to detail, and engineering expertise were all top-notch. Kiley really took the time to understand my vision and helped bring my dream to life in a way that exceeded my expectations. I’d highly recommend Gates of Dawn to anyone looking for high-quality recording and a producer that genuinely cares about the final product.*
