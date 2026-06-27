@@ -11,7 +11,7 @@ See my gear list [here](./studio.md).
 ## Projects
 ### Myself
 #### Current
-- Upcoming release for Kiley Burkhart - The Collecting Space EP (art rock)
+- Upcoming release for [Kiley Burkhart](https://kileyburkhart.bandcamp.com/) - The Collecting Space EP (art rock)
   - Writing, Recording, Production, Mixing
   - Instruments: Drums, Bass, Keyboards, Guitars, and Vocals
 
