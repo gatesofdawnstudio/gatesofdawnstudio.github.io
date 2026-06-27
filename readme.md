@@ -11,20 +11,20 @@ See my gear list [here](./studio.md).
 ## Projects
 ### Myself
 #### Current
-- [Lavender Lover](https://hyperfollow.com/lavenderlover) (indie/alternative rock)
-  - Drums, Recording, Production, Mixing
-- [The Warps](https://warpsband.com) (indie rock/pop, dance punk)
+- Upcoming release for [The Warps](https://warpsband.com) (indie rock/pop, dance punk)
   - Recording, Production, Mixing
-- [Jerry Marselle](https://www.facebook.com/people/Jerry-M-Music/61562277435414) (acoustic singer/songwriter)
+- Upcoming release for [Jerry Marselle](https://www.facebook.com/people/Jerry-M-Music/61562277435414) (acoustic singer/songwriter)
   - Drums, Recording, Production, Mixing
-- [Welcome To My Shitshow](https://hearthlightstudios.com) (upcoming podcast)
-  - Producer, Host
 
 #### Past
-- 2011 - 2012: [Collecting Space](https://hyperfollow.com/collectingspace) (art/progressive rock)
+- 2025 - 2026: [Lavender Lover](https://lavenderlover.bandcamp.com) (indie/alternative rock)
+  - Drums, Recording, Production, Mixing
+- 2011 - 2012: [Collecting Space](https://collectingspace.bandcamp.com) (art/progressive rock)
   - Writing, Recording, Production, Mixing
   - Instruments: Vocals, Guitars, Bass, Keyboards
 
 ### Others
+- 2026: [Welcome To My Shitshow](https://hearthlightstudios.com) (upcoming podcast)
+  - Producer, Host
 - 2014: [Brigadier](https://iambrigadier.bandcamp.com/album/remnants) (indie/alternative rock)
   - Instruments: Bass, Mellotron
