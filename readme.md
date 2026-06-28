@@ -16,9 +16,6 @@ See my gear list [here](./studio.md).
   - Instruments: Drums, Bass, Keyboards, Guitars, Vocals
 
 #### Past
-- 2025 - 2026: [Lavender Lover](https://lavenderlover.bandcamp.com) (indie/alternative rock)
-  - Recording, Production, Mixing
-  - Instruments: Drums
 - 2011 - 2012: [Collecting Space](https://collectingspace.bandcamp.com) (art/progressive rock)
   - Writing, Recording, Production, Mixing
   - Instruments: Vocals, Guitars, Bass, Keyboards
