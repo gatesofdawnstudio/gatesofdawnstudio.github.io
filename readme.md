@@ -22,9 +22,9 @@ See my gear list [here](./studio.md).
 
 ### Others
 - Upcoming release for [The Warps](https://warpsband.com) (indie rock/pop, dance punk)
-  - Recording, Production, Mixing
+  - Production, Recording, Mixing
 - Upcoming release for [Jerry Marselle](https://www.facebook.com/people/Jerry-M-Music/61562277435414) (acoustic singer/songwriter)
-  - Recording, Production, Mixing
+  - Production, Recording, Mixing
   - Instruments: Drums
 - Upcoming podcast [Welcome To My Shitshow](https://hearthlightstudios.com)
   - Producer, Host
@@ -34,3 +34,6 @@ See my gear list [here](./studio.md).
 ## Testamonials
 ### Jerry Marselle
 ​*Working with Kiley at Gates of Dawn was an incredible experience from start to finish. The atmosphere was professional yet laid back. The vibe was creative, and welcoming, which made it easy to relax and focus on the music. The sound quality, attention to detail, and engineering expertise were all top-notch. Kiley really took the time to understand my vision and helped bring my dream to life in a way that exceeded my expectations. I’d highly recommend Gates of Dawn to anyone looking for high-quality recording and a producer that genuinely cares about the final product.*
+
+### Kennedy Hall
+*Gates of Dawn studio helped my former band record their first two singles! Kiley was extremely knowledgeable about the recording and mixing process, and negotiated fairly to help build her portfolio. I appreciated that she let us guide the creative direction at every step. The studio has everything you need to lay down a good track, including various microphones to choose from. Kiley took all our feedback and made two songs we couldn’t be happier with. Go to Gates of Dawn studio if you want to guarantee your voice is heard in a safe space. Totally recommend!*
