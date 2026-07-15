@@ -6,7 +6,7 @@
 
 ## Computer hardware + software
 - Mac mini (M4)
-- Logic Pro w/Logic Remote (controllable via iPad)
+- Logic Pro 12.x w/Logic Remote (controllable via iPad)
 - Plugins by Universal Audio, Soundtoys, Arturia, Brainworx, Celemony, Sonnox, Sound Radix, and others
   - Guitar/bass digital modeling: Line 6 Helix + UAD Paradise Guitar Studio + Neural DSP
 - Rogue Amoeba macOS audio utilities (Airfoil, Loopback, SoundSource)
@@ -22,14 +22,14 @@ _I record at 24-bit/96 kHz_
 
 ## Monitoring
 - Kali LP-6 v2 stereo monitors + KRK S8.4 subwoofer
-- Pyle PCB4BK stereo speakers + Class D amplifier (50 watts/channel)
+- Dayton Audio Classic B40 speakers + Class D amplifier (50 watts/channel)
 - Sonarworks SoundID room correction
 - Beyerdynamic DT 770 250 Ohm (x3)
 - Mackie Big Knob Passive monitor controller
 - Sonos Play:5
 - Apple AirPods Max
 - Apple AirPods Pro
-- Behringer Stage Connect P24 System (1 mixer currently, adding more later in 2026)
+- Behringer Stage Connect P24 System (2 mixers)
 
 ## Microphones
 
@@ -84,8 +84,8 @@ _I use Evans, Remo, and Aquarian heads_
 #### Toms
 - Yamaha Tour Custom 8x7" (6 ply maple)
 - Yamaha Tour Custom 10x7" (6 ply maple)
-- Yamaha Stage Custom 8x7" (6 ply birch, concert tom)
-- Yamaha Stage Custom 10x7" (6 ply birch, concert tom)
+- Yamaha Stage Custom 8x7" (6 ply birch, converted to concert tom)
+- Yamaha Stage Custom 10x7" (6 ply birch, converted to concert tom)
 
 #### Snares
 _I use Canopus wires and parts_
@@ -106,7 +106,7 @@ _I use Canopus wires and parts_
   - 22" HHX Complex medium ride
 - Wuhan 18" china
 - Zildjian
-  - 20" A Ping Ride
+  - 20" K Ride
 
 - Tuning gadgets
   - DrumDial Digital
@@ -123,7 +123,7 @@ _I use Canopus wires and parts_
   - K&M and Gator microphone stands
   - Seismic Audio and ProCo cables
 - Pedals
-  - TC Electronic Ampworx Deluxe 65 (1965 Blackface Reverb pedal)
+  - TC Electronic Ampworx Deluxe 65 ('65 Blackface Reverb pedal)
   - TC Electronic Ampworx v550 (90's Peavey 5150 pedal)
   - Joyo Tidal Wave (SansAmp Bass Driver v2 clone)
   - Radial Geddy Lee YYZ bass preamp
