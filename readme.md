@@ -21,8 +21,8 @@ See my gear list [here](./studio.md).
   - Instruments: Vocals, Guitars, Bass, Keyboards
 
 ### Others
-- 2026: [The Warps]([https://warpsband.com](https://thewarps.bandcamp.com/album/exercise-to-exorcise-love-bomb-single)) (indie rock/pop, dance punk)
-  - Exercise to Exorcise / Love Bomb - Single
+- 2026: [The Warps](https://warpsband.com) (indie rock/pop, dance punk)
+  - [Exercise to Exorcise / Love Bomb - Single](https://thewarps.bandcamp.com/album/exercise-to-exorcise-love-bomb-single))
     - Production, Recording, Mixing
 - Upcoming release for [Jerry Marselle](https://www.facebook.com/people/Jerry-M-Music/61562277435414) (acoustic singer/songwriter)
   - Production, Recording, Mixing
