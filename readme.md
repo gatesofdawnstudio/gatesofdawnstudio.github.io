@@ -10,11 +10,11 @@ See my gear list [here](./studio.md).
 
 ## Projects
 ### Upcoming
-Upcoming release for [Kiley Burkhart](https://kileyburkhart.bandcamp.com/) - The Collecting Space EP (art/progressive rock)
+2026: [Kiley Burkhart](https://kileyburkhart.bandcamp.com/) - The Collecting Space EP (art/progressive rock)
   - Writing, Recording, Production, Mixing
   - Instruments: Drums, Bass, Keyboards, Guitars, Vocals
-### Current
-2026: [The Warps](https://warpsband.com) (indie rock/pop, dance punk)
+### 2026
+[The Warps](https://warpsband.com) (indie rock/pop, dance punk)
   - [Exercise to Exorcise / Love Bomb - Single](https://thewarps.bandcamp.com/album/exercise-to-exorcise-love-bomb-single))
     - Production, Recording, Mixing
 ### Past
