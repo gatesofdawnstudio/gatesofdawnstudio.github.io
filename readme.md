@@ -9,28 +9,20 @@ Please reach out via this [form](https://forms.gle/8vqS33juHe4fUass7) if you wou
 See my gear list [here](./studio.md).
 
 ## Projects
-### Myself
-#### Current
-- Upcoming release for [Kiley Burkhart](https://kileyburkhart.bandcamp.com/) - The Collecting Space EP (art rock)
+### Upcoming
+Upcoming release for [Kiley Burkhart](https://kileyburkhart.bandcamp.com/) - The Collecting Space EP (art/progressive rock)
   - Writing, Recording, Production, Mixing
   - Instruments: Drums, Bass, Keyboards, Guitars, Vocals
-
-#### Past
-- 2011 - 2012: [Collecting Space](https://collectingspace.bandcamp.com) (art/progressive rock)
-  - Writing, Recording, Production, Mixing
-  - Instruments: Vocals, Guitars, Bass, Keyboards
-
-### Others
-- 2026: [The Warps](https://warpsband.com) (indie rock/pop, dance punk)
+### Current
+2026: [The Warps](https://warpsband.com) (indie rock/pop, dance punk)
   - [Exercise to Exorcise / Love Bomb - Single](https://thewarps.bandcamp.com/album/exercise-to-exorcise-love-bomb-single))
     - Production, Recording, Mixing
-- Upcoming release for [Jerry Marselle](https://www.facebook.com/people/Jerry-M-Music/61562277435414) (acoustic singer/songwriter)
-  - Production, Recording, Mixing
-  - Instruments: Drums
-- Upcoming podcast [Welcome To My Shitshow](https://hearthlightstudios.com)
-  - Producer, Host
-- 2014: [Brigadier](https://iambrigadier.bandcamp.com/album/remnants) (indie/alternative rock)
+### Past
+2014: [Brigadier](https://iambrigadier.bandcamp.com/album/remnants) (indie/alternative rock)
   - Instruments: Bass, Keyboards
+2011: [Collecting Space](https://collectingspace.bandcamp.com) (art/progressive rock)
+  - Writing, Recording, Production, Mixing
+  - Instruments: Vocals, Guitars, Bass, Keyboards
  
 ## Testamonials
 ### Anna Siriano, The Warps
