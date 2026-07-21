@@ -2,6 +2,10 @@
 
 My name is Kiley Burkhart, and I operate a music recording and production studio called Gates of Dawn in Westerville, OH. I am passionate about helping independent artists bring their songs to life. I am open to working on all kinds of music. I specialize in the indie rock/pop world as a musician and multi-instrumentalist. I provide affordable project based rates and a relaxed environment with flexible scheduling and payment options. I also can offer an hourly rate if needed.
 
+I am a proud member of the Women's Audio Mission.
+
+<a href="https://womensaudiomission.org/"><img src="https://i.imgur.com/byLXLdT.png">
+
 ## Contact
 Please reach out via this [form](https://forms.gle/8vqS33juHe4fUass7) if you would like to work with me. We can discuss your project, pricing, etc. via a virtual or in person meeting, with no commitment from you.
 
