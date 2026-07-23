@@ -19,13 +19,10 @@ See my gear list [here](./studio.md).
   - Instruments: Drums, Bass, Keyboards, Guitars, Vocals
 
 ### Past
-#### 2026
 - [The Warps](https://warpsband.com) - [Exercise to Exorcise / Love Bomb - Single](https://thewarps.bandcamp.com/album/exercise-to-exorcise-love-bomb-single)) (indie rock/pop, dance punk)
   - Production, Recording, Mixing
-#### 2014
 - [Brigadier](https://iambrigadier.bandcamp.com/album/remnants) (indie/alternative rock)
   - Instruments: Bass, Keyboards
-#### 2011
 - [Collecting Space](https://collectingspace.bandcamp.com) (art/progressive rock)
   - Writing, Recording, Production, Mixing
   - Instruments: Vocals, Guitars, Bass, Keyboards
