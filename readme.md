@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/2X78rDp.jpeg" style="width: 1000px; max-width: 100%; height: auto" title="Gates of Dawn Music Recording and Production header"/>
 
 ## About
-My name is Kiley Burkhart, and I operate a music recording and production studio called Gates of Dawn in Westerville, OH. I am passionate about helping independent artists bring their songs to life. I specialize in the indie rock/pop world as a musician and multi-instrumentalist, but I am open to working on all kinds of music. I provide affordable project based rates and a relaxed environment with flexible scheduling and payment options. I also can offer an hourly rate if needed.
+My name is Kiley Burkhart, and I operate a music recording and production studio called Gates of Dawn in Westerville, OH. I am passionate about helping independent artists bring their songs to life. I specialize in the indie rock/pop world as a musician and multi-instrumentalist, but I am open to working on all kinds of music. 
 
 <img src="https://i.imgur.com/E2HlUy4.jpeg">
 
@@ -9,8 +9,25 @@ _I am a proud member of the Women's Audio Mission._
 
 <a href="https://womensaudiomission.org/"><img src="https://i.imgur.com/byLXLdT.png">
 
+## Pricing
+_I provide affordable project based rates and a relaxed environment with flexible scheduling and payment options._
+
+### Projects
+- Flat rate: $500/song
+  - Includes pre-production, tracking, comping, editing, and mixing
+  - I can including mastering as well with this package, but I would prefer to refer this out to another engineer who specializes in mastering
+
+### Individual services
+- Mixing
+  - $100/song
+  - 10% discount on four or more songs
+- Tracking
+  - $100/hour
+  - 5% discount on four hour blocks
+  - 10% discount on eight hour blocks
+
 ## Contact
-Please reach out via this [form](https://forms.gle/8vqS33juHe4fUass7) if you would like to work with me. We can discuss your project, pricing, etc. via a virtual or in person meeting, with no commitment from you.
+Please reach out via this [form](https://forms.gle/8vqS33juHe4fUass7) if you would like to work with me. We can discuss your project via a virtual or in person meeting, with no commitment from you.
 
 ## Studio
 See my gear list [here](./studio.md).
