@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/2X78rDp.jpeg" style="width: 1000px; max-width: 100%; height: auto" title="Gates of Dawn Music Recording and Production header"/>
 
 ## About
-My name is Kiley Burkhart, and I operate a music recording and production studio called Gates of Dawn in Westerville, OH. I am passionate about helping independent artists bring their songs to life. I specialize in the indie rock/pop world as a musician and multi-instrumentalist, but I am open to working on all kinds of music. 
+My name is Kiley Burkhart, and I operate a music recording and production project studio called Gates of Dawn in Westerville, OH. I am passionate about helping independent artists bring their songs to life. I specialize in the indie rock/pop world as a musician and multi-instrumentalist, but I am open to working on all kinds of music. My goal is to offer something between what you can get with home recording and a standalone professional studio. I am able to keep affordable rates as I do this part-time and I am currently in a facility with shared space. My studio is a total passion project and I truly love what I do at my studio.
 
 <img src="https://i.imgur.com/E2HlUy4.jpeg">
 
@@ -15,7 +15,7 @@ _I provide affordable project based rates and a relaxed environment with flexibl
 ### Projects
 - Flat rate: $500/song
   - Includes pre-production, tracking, comping, editing, and mixing
-  - I can including mastering as well with this package, but I would prefer to refer this out to another engineer who specializes in mastering
+    - Note: _I can including my own mastering with this package, but I would prefer to refer this out to another engineer who specializes in mastering. I have used [Jon Fintel](https://www.jonfintel.com/) of [Relay Recording](https://www.relayrecording.com/) (local studio) for all of my professional mastering needs, and I fully endorse his work._
 
 ### Individual services
 - Mixing
@@ -25,6 +25,11 @@ _I provide affordable project based rates and a relaxed environment with flexibl
   - $100/hour
   - 5% discount on four hour blocks
   - 10% discount on eight hour blocks
+ 
+## General availibility
+- Monday - Friday: 5 PM - 11 PM
+- Saturday: 10 AM - 8 PM
+- Sunday: as needed
 
 ## Contact
 Please reach out via this [form](https://forms.gle/8vqS33juHe4fUass7) if you would like to work with me. We can discuss your project via a virtual or in person meeting, with no commitment from you.
