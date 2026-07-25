@@ -63,3 +63,8 @@ See my gear list [here](./studio.md).
 
 ### Kennedy Hall
 *Gates of Dawn studio helped my former band record their first two singles! Kiley was extremely knowledgeable about the recording and mixing process, and negotiated fairly to help build her portfolio. I appreciated that she let us guide the creative direction at every step. The studio has everything you need to lay down a good track, including various microphones to choose from. Kiley took all our feedback and made two songs we couldn’t be happier with. Go to Gates of Dawn studio if you want to guarantee your voice is heard in a safe space. Totally recommend!*
+
+
+---
+
+&copy; 2026 Kiley Michelle Burkhart
