@@ -47,7 +47,7 @@ See my gear list [here](./studio.md).
   - Production, Recording, Mixing
 - Brigadier - [Remnants](https://iambrigadier.bandcamp.com/album/remnants) (indie/alternative rock)
   - Instruments: Bass, Keyboards
-- Collecting Space - [Subside](https://collectingspace.bandcamp.com) (art/progressive rock)
+- Collecting Space - [Subside](https://collectingspace.bandcamp.com/album/subside) (art/progressive rock)
   - Writing, Recording, Production, Mixing
   - Instruments: Vocals, Guitars, Bass, Keyboards
  
