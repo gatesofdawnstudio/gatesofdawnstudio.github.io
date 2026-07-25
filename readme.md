@@ -39,8 +39,11 @@ See my gear list [here](./studio.md).
 
 ## Upcoming projects
 - [Kiley Burkhart](https://kileyburkhart.bandcamp.com/) - The Collecting Space EP (art/progressive rock)
-  - Writing, Recording, Production, Mixing
+  - Writing, Production, Recording, Mixing
   - Instruments: Drums, Bass, Keyboards, Guitars, Vocals
+- [Jerry Marselle](https://jerrymmusic.com/) - Nitro, By God Blues - Single (singer/songwriter, folk)
+  - Production, Recording, Mixing
+  - Instruments: Drums
 
 ## Released projects
 - [The Warps](https://warpsband.com) - [Exercise to Exorcise / Love Bomb - Single](https://thewarps.bandcamp.com/album/exercise-to-exorcise-love-bomb-single)) (indie rock/pop, dance punk)
