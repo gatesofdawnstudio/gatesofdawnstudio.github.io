@@ -46,13 +46,16 @@ See my gear list [here](./studio.md).
   - Instruments: Drums, Bass, Keyboards, Guitars, Vocals
 
 ## Released projects
+### 2026
 - [Jerry Marselle](https://jerrymmusic.com/) - [Nitro, By God Blues - Single](https://jerrymmusic.bandcamp.com/track/nitro-west-by-god-blues) (singer/songwriter, folk, Americana)
   - Production, Recording, Mixing, Mastering
   - Instruments: Drums
 - [The Warps](https://warpsband.com) - [Exercise to Exorcise / Love Bomb - Single](https://thewarps.bandcamp.com/album/exercise-to-exorcise-love-bomb-single)) (indie rock/pop, dance punk)
   - Production, Recording, Mixing
+### 2014
 - Brigadier - [Remnants](https://iambrigadier.bandcamp.com/album/remnants) (indie/alternative rock)
   - Instruments: Bass, Keyboards
+### 2011
 - Collecting Space - [Subside](https://collectingspace.bandcamp.com/album/subside) (art/progressive rock)
   - Writing, Recording, Production, Mixing
   - Instruments: Vocals, Guitars, Bass, Keyboards
