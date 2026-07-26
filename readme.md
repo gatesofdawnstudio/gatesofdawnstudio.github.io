@@ -47,7 +47,7 @@ See my gear list [here](./studio.md).
 
 ## Released projects
 - [Jerry Marselle](https://jerrymmusic.com/) - [Nitro, By God Blues - Single](https://jerrymmusic.bandcamp.com/track/nitro-west-by-god-blues) (singer/songwriter, folk, Americana)
-  - Production, Recording, Mixing
+  - Production, Recording, Mixing, Mastering
   - Instruments: Drums
 - [The Warps](https://warpsband.com) - [Exercise to Exorcise / Love Bomb - Single](https://thewarps.bandcamp.com/album/exercise-to-exorcise-love-bomb-single)) (indie rock/pop, dance punk)
   - Production, Recording, Mixing
