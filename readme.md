@@ -12,9 +12,11 @@ _I am a proud member of the Women's Audio Mission._
 ## Pricing
 _I provide affordable project-based flat rates and a relaxed environment with flexible scheduling and payment options._
 
-### Projects
-- Flat rate production: $500/song
-  - Includes pre-production, tracking, comping, editing, mixing, and mastering. You will retain ownership of your multitracks, final mixes, masters, etc., please let me know if and how you want copies of them. I will keep them with my studio storage for one calendar year after completion of your project. After you take ownership, I highly recommend keeping them stored somewhere secure and backed up.
+### Flat rate production
+- $500/song
+  - 5% discount for 4+ songs
+  - 10% discount for 8+ songs
+- Includes pre-production, tracking, comping, editing, mixing, and mastering. You will retain ownership of your multitracks, final mixes, masters, etc., please let me know if and how you want copies of them. I will keep them with my studio storage for one calendar year after completion of your project. After you take ownership, I highly recommend keeping them stored somewhere secure and backed up.
 > _Note regarding mastering: I do include my own mastering with this package, but I would recommend referring this out to another engineer who specializes in mastering. I have used [Jon Fintel](https://www.jonfintel.com/) of [Relay Recording](https://www.relayrecording.com/) (local studio) for all of my professional mastering needs, and I fully endorse his work. In my opinion, it's an important final step of the production process, and the project is best served with some fresh ears._
 
 ### Individual production services
