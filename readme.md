@@ -44,11 +44,11 @@ See my gear list [here](./studio.md).
 - [Kiley Burkhart](https://kileyburkhart.bandcamp.com/) - The Collecting Space EP (art/progressive rock)
   - Writing, Production, Recording, Mixing
   - Instruments: Drums, Bass, Keyboards, Guitars, Vocals
-- [Jerry Marselle](https://jerrymmusic.com/) - Nitro, By God Blues - Single (singer/songwriter, folk)
-  - Production, Recording, Mixing
-  - Instruments: Drums
 
 ## Released projects
+- [Jerry Marselle](https://jerrymmusic.com/) - [Nitro, By God Blues - Single](https://jerrymmusic.bandcamp.com/track/nitro-west-by-god-blues) (singer/songwriter, folk, Americana)
+  - Production, Recording, Mixing
+  - Instruments: Drums
 - [The Warps](https://warpsband.com) - [Exercise to Exorcise / Love Bomb - Single](https://thewarps.bandcamp.com/album/exercise-to-exorcise-love-bomb-single)) (indie rock/pop, dance punk)
   - Production, Recording, Mixing
 - Brigadier - [Remnants](https://iambrigadier.bandcamp.com/album/remnants) (indie/alternative rock)
