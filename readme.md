@@ -15,7 +15,8 @@ _I provide affordable project-based flat rates and a relaxed environment with fl
 ### Projects
 - Flat rate production: $500/song
   - Includes pre-production, tracking, comping, editing, and mixing
-    - Note: _I can including my own mastering with this package, but I would prefer to refer this out to another engineer who specializes in mastering. I have used [Jon Fintel](https://www.jonfintel.com/) of [Relay Recording](https://www.relayrecording.com/) (local studio) for all of my professional mastering needs, and I fully endorse his work. In my opinion, it's an important final step of the production process, and the project is best served with some fresh ears._
+    - Note regarding mastering: _I can including my own mastering with this package, but I would prefer to refer this out to another engineer who specializes in mastering. I have used [Jon Fintel](https://www.jonfintel.com/) of [Relay Recording](https://www.relayrecording.com/) (local studio) for all of my professional mastering needs, and I fully endorse his work. In my opinion, it's an important final step of the production process, and the project is best served with some fresh ears._
+  - You will retain ownership of your multitracks, final mixes, masters, etc., please let me know if you want copies of them.
 
 ### Individual services
 - Tracking
