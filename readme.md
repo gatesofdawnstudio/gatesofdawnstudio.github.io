@@ -5,16 +5,17 @@ My name is **Kiley Burkhart**, and I operate a music recording and production pr
 
 _This studio is a dream of mine turned into a reality, and I truly love what I do here._
 
-## Location
-6463 Maxtown Road\
-Studio 5\
-Westerville, OH 43082
-
 <img src="https://i.imgur.com/E2HlUy4.jpeg">
 
 _I am a proud member of the Women's Audio Mission._
 
 <a href="https://womensaudiomission.org/"><img src="https://i.imgur.com/byLXLdT.png">
+
+## Location
+6463 Maxtown Road\
+Studio 5\
+Westerville, OH 43082\
+[Apple Maps](https://maps.apple/p/~Q1SnGL-SSPTYY) / [Google Maps](https://maps.app.goo.gl/6tdyQSd17jPFBndB8)
 
 ## Pricing
 I provide affordable project-based flat rates and a relaxed environment with flexible scheduling and payment options. A 50% deposit is required to hold your project and time, with the remainder due when work is complete. I invoice through PayPal.
