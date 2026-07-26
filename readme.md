@@ -23,7 +23,7 @@ _I provide affordable project-based flat rates and a relaxed environment with fl
   - $300/four hour block
   - $560/eight hour block
 - Mixing
-  - $80/song
+  - $100/song
   - 10% discount on four or more songs
  
 ## General availibility
