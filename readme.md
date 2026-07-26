@@ -31,7 +31,7 @@ _I provide affordable project-based flat rates and a relaxed environment with fl
  
 ## General availibility
 - Monday - Friday: 5 PM - 11 PM
-- Saturday: 10 AM - 8 PM
+- Saturday: 10 AM - 7 PM
 - Sunday: as needed
 
 ## Contact
