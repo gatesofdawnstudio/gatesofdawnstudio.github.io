@@ -18,7 +18,7 @@ Westerville, OH 43082\
 [Apple Maps](https://maps.apple/p/~Q1SnGL-SSPTYY) / [Google Maps](https://maps.app.goo.gl/6tdyQSd17jPFBndB8)
 
 ## Pricing
-I provide affordable project-based flat rates and a relaxed environment with flexible scheduling and payment options. A 50% deposit is required to hold your project and time, with the remainder due when work is complete. I invoice through PayPal.
+I provide affordable project-based flat rates and a relaxed environment with flexible scheduling and payment options. I invoice through PayPal, which offers multiple options for payments including Pay in 4, PayPal Credit, etc. A 50% deposit is required to hold your project and time, with the remainder due when work is complete.
 
 ### Flat rate production
 - $500/song
