@@ -6,8 +6,8 @@ My name is Kiley Burkhart, and I operate a music recording and production projec
 This studio is a dream of mine turned into a reality, and I truly love what I do here.
 
 ## Location
-6463 Maxtown Road
-Studio 5
+6463 Maxtown Road\
+Studio 5\
 Westerville, OH 43082
 
 <img src="https://i.imgur.com/E2HlUy4.jpeg">
