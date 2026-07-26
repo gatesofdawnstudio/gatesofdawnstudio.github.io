@@ -28,8 +28,7 @@ _I provide affordable project-based flat rates and a relaxed environment with fl
   - 10% discount on four or more songs
 - Drum, bass, or guitar recording
   - Pricing is unique per project, contact me if interested!
-- Practice/rehearsal space (_requires check in and check out with me_)
-  - Note: _the space can accomodate a three or four musicians comfortably, five is doable but tight_
+- Practice/rehearsal space (_requires check in and check out with me. The studio can accomodate a three or four musicians comfortably, five is doable but tight._)
   - $50/two hour block
   - $90/four hour block
   - $160/eight hour block
