@@ -19,12 +19,12 @@ _I provide affordable project-based flat rates and a relaxed environment with fl
   - You will retain ownership of your multitracks, final mixes, masters, etc., please let me know if and how you want copies of them. I will keep them with my studio storage for one calendar year after completion of your project. After you take ownership, I highly recommend keeping them stored somewhere secure and backed up.
 
 ### Individual services
-- Tracking
+- Tracking (_includes engineering and editing with time permitting_)
   - $80/hour
   - $300/four hour block
   - $560/eight hour block
 - Mixing
-  - $100/song
+  - $100/song (_includes up to three revisions_)
   - 10% discount on four or more songs
 - Drum, bass, or guitar recording
   - Pricing is unique per project, contact me if interested!
