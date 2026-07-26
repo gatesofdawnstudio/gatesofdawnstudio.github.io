@@ -14,11 +14,10 @@ _I provide affordable project-based flat rates and a relaxed environment with fl
 
 ### Projects
 - Flat rate production: $500/song
-  - Includes pre-production, tracking, comping, editing, and mixing
-    - Note regarding mastering: _I can including my own mastering with this package, but I would recommend referring this out to another engineer who specializes in mastering. I have used [Jon Fintel](https://www.jonfintel.com/) of [Relay Recording](https://www.relayrecording.com/) (local studio) for all of my professional mastering needs, and I fully endorse his work. In my opinion, it's an important final step of the production process, and the project is best served with some fresh ears._
-  - You will retain ownership of your multitracks, final mixes, masters, etc., please let me know if and how you want copies of them. I will keep them with my studio storage for one calendar year after completion of your project. After you take ownership, I highly recommend keeping them stored somewhere secure and backed up.
+  - Includes pre-production, tracking, comping, editing, mixing, and mastering. You will retain ownership of your multitracks, final mixes, masters, etc., please let me know if and how you want copies of them. I will keep them with my studio storage for one calendar year after completion of your project. After you take ownership, I highly recommend keeping them stored somewhere secure and backed up.
+> _Note regarding mastering: I do include my own mastering with this package, but I would recommend referring this out to another engineer who specializes in mastering. I have used [Jon Fintel](https://www.jonfintel.com/) of [Relay Recording](https://www.relayrecording.com/) (local studio) for all of my professional mastering needs, and I fully endorse his work. In my opinion, it's an important final step of the production process, and the project is best served with some fresh ears._
 
-### Individual services
+### Individual production services
 - Tracking (_includes engineering and editing with time permitting_)
   - $80/hour
   - $300/four hour block
@@ -28,12 +27,15 @@ _I provide affordable project-based flat rates and a relaxed environment with fl
   - 10% discount on four or more songs
 - Drum, bass, or guitar recording
   - Pricing is unique per project, contact me if interested!
-- Practice/rehearsal space (_requires check in and check out with me. The studio can accomodate a three or four musicians comfortably, five is doable but tight._)
+
+### Practice/rehearsal space
   - $50/two hour block
   - $90/four hour block
   - $160/eight hour block
+
+> _Note: You will check in and check out with me in person. The studio can accomodate a three or four musicians comfortably, five is doable but tight._
  
-## General availibility
+## General availibility for production services
 - Monday - Friday: 5 PM - 11 PM
 - Saturday: 10 AM - 7 PM
 - Sunday: as needed
