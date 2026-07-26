@@ -26,6 +26,8 @@ _I provide affordable project-based flat rates and a relaxed environment with fl
 - Mixing
   - $100/song
   - 10% discount on four or more songs
+- Drum, bass, or guitar recording
+  - Pricing is unique per project, contact me if interested!
  
 ## General availibility
 - Monday - Friday: 5 PM - 11 PM
