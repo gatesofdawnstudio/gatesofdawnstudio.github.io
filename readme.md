@@ -9,7 +9,7 @@ _This studio is a dream of mine turned into a reality, and I truly love what I d
 
 _I am a proud member of the Women's Audio Mission._
 
-<a href="https://womensaudiomission.org/"><img src="https://i.imgur.com/byLXLdT.png">
+<a href="https://womensaudiomission.org"><img src="https://i.imgur.com/byLXLdT.png">
 
 ## Location
 6463 Maxtown Road\
@@ -25,7 +25,7 @@ I provide affordable project-based flat rates and a relaxed environment with fle
   - 5% discount for 4+ songs
   - 10% discount for 8+ songs
 - Includes pre-production, tracking, comping, editing, mixing, and mastering. You will retain ownership of your multitracks, final mixes, masters, etc., please let me know if and how you want copies of them. I will keep them with my studio storage for one calendar year after completion of your project. After you take ownership, I highly recommend keeping them stored somewhere secure and backed up.
-> _Thoughts on mastering: I do include my own mastering with this package, but I would recommend referring this out to another engineer who specializes in mastering. I have used [Jon Fintel](https://www.jonfintel.com/) of [Relay Recording](https://www.relayrecording.com/) (local studio) for all of my professional mastering needs, and I fully endorse his work. In my opinion, it's an important final step of the production process, and the project is best served with some fresh ears._
+> _Thoughts on mastering: I do include my own mastering with this package, but I would recommend referring this out to another engineer who specializes in mastering. I have used [Jon Fintel](https://www.jonfintel.com) of [Relay Recording](https://www.relayrecording.com) (local studio) for all of my professional mastering needs, and I fully endorse his work. In my opinion, it's an important final step of the production process, and the project is best served with some fresh ears._
 
 ### Individual production services
 - Tracking (_includes engineering and editing with time permitting_)
@@ -57,13 +57,13 @@ If you'd like to work with me, please reach out via this [form](https://forms.gl
 See my gear list [here](./studio.md).
 
 ## Upcoming projects
-- [Kiley Burkhart](https://kileyburkhart.bandcamp.com/) - The Collecting Space EP (art/progressive rock)
+- [Kiley Burkhart](https://kileyburkhart.bandcamp.com) - The Collecting Space EP (art/progressive rock)
   - Writing, Production, Recording, Mixing
   - Instruments: Drums, Bass, Keyboards, Guitars, Vocals
 
 ## Released projects
 ### 2026
-- [Jerry Marselle](https://jerrymmusic.com/) - [Nitro, By God Blues - Single](https://jerrymmusic.bandcamp.com/track/nitro-west-by-god-blues) (singer/songwriter, folk, Americana)
+- [Jerry Marselle](https://jerrymmusic.com) - [Nitro, By God Blues - Single](https://jerrymmusic.bandcamp.com/album/nitro-west-by-god-blues) (singer/songwriter, folk, Americana)
   - Production, Recording, Mixing, Mastering
   - Instruments: Drums
 - [The Warps](https://warpsband.com) - [Exercise to Exorcise / Love Bomb - Single](https://thewarps.bandcamp.com/album/exercise-to-exorcise-love-bomb-single)) (indie rock/pop, dance punk)
