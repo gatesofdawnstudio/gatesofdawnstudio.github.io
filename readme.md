@@ -28,7 +28,7 @@ I provide affordable project-based flat rates and a relaxed environment with fle
 > _Thoughts on mastering: I do include my own mastering with this package, but I would recommend referring this out to another engineer who specializes in mastering. I have used [Jon Fintel](https://www.jonfintel.com) of [Relay Recording](https://www.relayrecording.com) (local studio) for all of my professional mastering needs, and I fully endorse his work. In my opinion, it's an important final step of the production process, and the project is best served with some fresh ears._
 
 ### Individual production services
-- Tracking (_includes engineering and editing with time permitting_)
+- Tracking (_includes me as an engineer + editing with time permitting_)
   - $80/hour
   - $300/four hour block
   - $560/eight hour block
