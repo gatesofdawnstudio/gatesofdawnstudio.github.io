@@ -45,11 +45,11 @@ _I record at 24-bit/96 kHz_
 - Audix F2
 - Audix F6 (x2)
 - Sennheiser e609 Silver
-- Shure PGA58 (x2)
+- Shure PGA58
 - Shure SM57 (w/right angle mod)
-- Shure SM58
 - Shure SM7B
 - Telefunken M80-SH
+- Telefunken M81-SH
 
 ### Ribbon
 - sE X1 R (x2)
